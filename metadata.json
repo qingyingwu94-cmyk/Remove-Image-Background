@@ -1,0 +1,5 @@
+{
+  "name": "AI Background Remover",
+  "description": "A professional tool to remove image backgrounds using Gemini 2.5 Flash Image model.",
+  "requestFramePermissions": []
+}
